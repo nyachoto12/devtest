@@ -1,0 +1,27 @@
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: dimgrey;
+}
+.bottom {
+    position: absolute;
+    left: 50%;
+    color: dimgrey;
+    bottom: 55px;
+  }
+  .vl{
+    border-left: 1px solid dimgrey;
+    height: 140px;
+    position: absolute;
+    left: 52%;
+    bottom: auto;
+    top: 96%;
+    margin-left: -3px;
+
+  }
+ 
